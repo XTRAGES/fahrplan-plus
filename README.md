@@ -20,7 +20,7 @@ Quality: ESLint + Strict TypeScript + Performance optimization
 
 ```bash
 git clone https://github.com/XTRAGES/fahrplan-plus.git
-cd fahrplan-plus && npm install
+cd fahrplan-plus & npm install
 
 # Add Firebase config to .env.local
 npm run dev
@@ -51,7 +51,7 @@ npm run dev
 ## 🚀 Deployment
 
 ```bash
-npm run build && firebase deploy
+npm run build & firebase deploy
 ```
 
 ## 👨‍💻 Developer
