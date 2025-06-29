@@ -6,12 +6,12 @@
 
 Sophisticated train schedule assistant showcasing modern full-stack development with React, TypeScript, Firebase, and enterprise-grade patterns.
 
-**Key Features:** 
-• Smart search 
-• Real-time delays 
-• User favorites 
-• Search history 
-• Mobile-first design
+**Key Features:**  
+• Smart search  
+• Real-time delays  
+• User favorites  
+• Search history  
+• Mobile-first design  
 
 ## 🛠️ Tech Stack
 
