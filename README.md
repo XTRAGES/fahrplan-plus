@@ -60,6 +60,5 @@ npm run build & firebase deploy
 
 - 📧 aldinzendeli33@gmail.com
 - 🐙 [@XTRAGES](https://github.com/XTRAGES)
-- 🚀 React • TypeScript • Node.js • Cloud platforms
 
 ---
