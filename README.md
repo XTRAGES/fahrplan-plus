@@ -4,7 +4,7 @@
 
 ## 🎯 Overview
 
-https://fahrplann.netlify.app/
+https://fahrplan.netlify.app/
 
 Sophisticated train schedule assistant showcasing modern full-stack development with React, TypeScript, Firebase, and enterprise-grade patterns.
 
